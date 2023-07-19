@@ -10,7 +10,7 @@
     <header>
         <a class="link-menu">Products</a>
         <a class="link-menu">Company</a>
-        <a class="link-menu">Blog</a>
+        <a class="link-menu">Blog Blog</a>
         <a class="link-menu">Log in</a>
         <button class="button-sign-up">Sign up</button>
     </header>
